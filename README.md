@@ -1,8 +1,9 @@
-e commerce en angular
+# e commerce en angular
 
-requeridas:
-
+## requeridas:
+```
 $1: angular
-
+```
+```
 $2: carpeta assets/img
-
+```
