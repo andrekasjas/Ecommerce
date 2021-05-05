@@ -2,8 +2,8 @@
 
 ## requeridas:
 ```
-$1: angular
+ angular
 ```
 ```
-$2: carpeta assets/img
+imagenes
 ```
